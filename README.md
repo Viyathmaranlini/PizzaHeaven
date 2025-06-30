@@ -16,7 +16,6 @@
 - **Order Page** – Place your order quickly and easily 
 - **About Page** – Learn more about PizzaHeaven
 - **Contact Page** – Reach out or find the restaurant location
-- **Responsive Design** – Optimized for mobile, tablet, and desktop
 
 ---
 
