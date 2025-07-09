@@ -28,10 +28,11 @@
 
 ## 🚀 Getting Started
 
- Clone the repository  
+ Clone the repository and open index.html in your browser: 
    ```bash
-   git clone https://github.com/Viyathmaranlini/pizzaheaven.git
-
+  git clone https://github.com/Viyathmaranlini/PizzaHeaven.git
+cd PizzaHeaven
+open index.html
 
 
 
